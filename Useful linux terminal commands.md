@@ -1,0 +1,19 @@
+TTY shell spawning:
+-	Python
+	-	`python -c 'import pty; pty.spawn("/bin/sh")'`
+-	PHP
+	-	`echo os.system('/bin/bash')`
+-	Bash
+	-	`/bin/sh -i`
+-	Perl
+	-	`perl —e 'exec "/bin/sh";'`
+	-	`perl: exec "/bin/sh";`
+-	Ruby
+	-	`ruby: exec "/bin/sh"`
+-	Lua
+	-	`lua: os.execute('/bin/sh')`
+-	From within vi
+	-	`:!bash`
+	-	`:set shell=/bin/bash:shell`
+-	From nmap
+	-	`!sh`

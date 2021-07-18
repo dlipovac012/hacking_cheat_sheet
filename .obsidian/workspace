@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "ba16ea2ff94b92e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "856cdc5609b24d55",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Useful linux terminal commands.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "caef3680af9b7be7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf996b0e3077ad19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7859ca4f025df577",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b6ba7890f3e1648",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c3ca87cd47cf69c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c94f92b118c64fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e3bcfe909edfbf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Useful linux terminal commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "856cdc5609b24d55",
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
